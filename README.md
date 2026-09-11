@@ -13,4 +13,8 @@ built the way I wanted it. Small, local-first, offline by default.
 in a browser tab that stays open after the terminal closes. Python stdlib only,
 renders offline, themeable down to a medieval parchment with a drop cap.
 
+> *"Never give in—never, never, never, never, except to convictions of honour
+> and good sense."*
+> — Winston Churchill, Harrow School, 1941
+
 [LinkedIn](https://www.linkedin.com/in/thinguyenvuhoang/) · Ho Chi Minh City
