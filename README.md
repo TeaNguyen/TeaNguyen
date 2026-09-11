@@ -11,3 +11,4 @@ offline by default.
 in a browser tab that stays open after the terminal closes. Python stdlib only,
 renders offline, themeable down to a medieval parchment with a drop cap.
 
+[LinkedIn](https://www.linkedin.com/in/thinguyenvuhoang/) · Ho Chi Minh City
